@@ -2,38 +2,34 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
-@import 'bootstrap';
 
-*{
-	text-align: center;
+@import "bootstrap";
+* {
+    text-align: center;
 }
 
-h4:nth-child(3){
-
-}
-
-form{
+h4:nth-child(3) {
 
 }
 
-.message{
-	margin-top: 50px;
-	height: 100px;
-	width: 200px;
+.message {
+    margin-top: 50px;
+    height: 100px;
+    width: 200px;
 }
 
-p{
-	margin-top: 20px;
+p {
+    margin-top: 20px;
 }
 
-.red{
-	background-color: red;
-	margin:0px auto;
-	margin-top: 15px;
+.red {
+    background-color: red;
+    margin: 0px auto;
+    margin-top: 15px;
 }
 
-#green{
-	background-color: green;
-	margin: 0px auto;
-	margin-top: 15px;
+#green {
+    background-color: green;
+    margin: 0px auto;
+    margin-top: 15px;
 }
